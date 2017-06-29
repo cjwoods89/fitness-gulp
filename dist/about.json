@@ -1,0 +1,11 @@
+{
+  "name": "fitness-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/cjwoods89/fitness-gulp#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "buildDate": 1498765159756
+}
